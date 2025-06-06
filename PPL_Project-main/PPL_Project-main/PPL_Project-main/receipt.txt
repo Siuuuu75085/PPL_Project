@@ -1,0 +1,6 @@
+Receipt:
+iphone: 3 (Subtotal: $2399.97)
+laptop: 5 (Subtotal: $4999.95)
+tablet: 3 (Subtotal: $899.97)
+Total: $7469.90
+Thank you for your purchase!
